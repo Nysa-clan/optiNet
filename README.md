@@ -1,3 +1,3 @@
 ## OptiNet
 
-# Tiny framwork expiriment from scratch
+# Tiny DL framwork expiriment from scratch
