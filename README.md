@@ -1,3 +1,3 @@
 ## OptiNet
 
-# Tiny DL framwork expiriment from scratch
+# Tiny DL framework experiment from scratch
